@@ -124,7 +124,7 @@ streamlit run dashboard/app.py
 
 ## About
 
-Built by **Charmy Raj** as part of a transition into supply chain analytics following a Master's in Data Analytics for Business. Open to feedback, questions, or just chatting about demand forecasting and inventory optimization.
+Built by **Charmy Raj**! Open to feedback, questions, or just chatting about demand forecasting and inventory optimization.
 
 📧 charmyraj4@gmail.com
 🔗 [GitHub](https://github.com/Rcharmy) · [Live dashboard](https://forecast-to-inventory-rcharmy.streamlit.app/)
