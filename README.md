@@ -87,6 +87,7 @@ A senior supply chain analyst would push on these, and I'd want to as well:
 `pandas` · `numpy` · `statsmodels` · `scikit-learn` · `lightgbm` · `plotly` · `streamlit` · deployed on Streamlit Community Cloud.
 
 ## Project structure
+```bash
 forecast-to-inventory/
 ├── dashboard/              # Streamlit app (deployed)
 ├── notebooks/
@@ -102,6 +103,7 @@ forecast-to-inventory/
 ├── results/figures/        # charts
 ├── requirements.txt
 └── README.md
+```
 
 ## Running locally
 
