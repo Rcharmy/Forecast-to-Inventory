@@ -13,7 +13,7 @@ __pycache__/
 
 # Data (too large for Git)
 data/raw/
-data/processed/
+# data/processed/ — needed for dashboard, files are small enough
 
 # OS
 .DS_Store

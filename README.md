@@ -1,5 +1,7 @@
 # Forecast-to-Inventory: Demand Forecasting Drives Inventory Decisions
 
+![alt text](image.png)
+
 ## The Question
 Better demand forecasts should mean less inventory at the same service level — but how much less, and is the difference worth the modeling complexity? This project quantifies that tradeoff using Walmart retail sales data.
 
@@ -27,3 +29,6 @@ src/ — reusable Python functions (metrics, models, simulation logic)
 results/figures/ — saved plots
 dashboard/ — the Streamlit app, later
 
+
+## 🚀 Live demo
+**[View the interactive dashboard →](https://forecast-to-inventory-rcharmy.streamlit.app/)

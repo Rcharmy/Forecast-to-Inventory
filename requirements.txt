@@ -10,3 +10,4 @@ ipykernel>=6.27.0
 streamlit>=1.32.0
 plotly>=5.18.0
 tqdm>=4.66.0
+pyarrow>=14.0.0
